@@ -28,3 +28,6 @@ My Arch Linux minimal setup for coding and university study.
 
 ### Audio Visualize
 - [Cava](https://github.com/karlstav/cava)
+
+# Showcase
+![Showcase](./showcase/showcase_1.png)
