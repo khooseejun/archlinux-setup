@@ -4,12 +4,14 @@ My Arch Linux setup for coding and university study.
 ### Window Manager
 - [Niri](https://github.com/YaLTeR/niri)
 
-### QuickShell
-- [QuickShell](https://github.com/quickshell-mirror/quickshell)
+### [QuickShell](https://github.com/quickshell-mirror/quickshell)
 - Config: [Noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 
 ### Terminal
 - [Alacritty](https://alacritty.org/)
+
+### Shell
+- [Fish](https://fishshell.com/)
 
 ### Text Editor
 - [NeoVim](https://neovim.io/)
@@ -26,6 +28,3 @@ My Arch Linux setup for coding and university study.
 
 ### Audio Visualize
 - [Cava](https://github.com/karlstav/cava)
-
-# Showcase
-![Showcase](./showcase/showcase_1.png)
